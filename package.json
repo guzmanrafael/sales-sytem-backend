@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/guzmanrafael/sales-sytem-backend/issues"
   },
-  "homepage": "https://github.com/guzmanrafael/sales-sytem-backend#readme"
+  "homepage": "https://github.com/guzmanrafael/sales-sytem-backend#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
 }
